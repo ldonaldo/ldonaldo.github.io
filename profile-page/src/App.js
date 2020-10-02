@@ -32,25 +32,25 @@ function App() {
                 <OverlayTrigger placement="top" 
                 overlay={<Tooltip>Cellphone</Tooltip>}>
                   <Badge className="badge" sm={3} pill variant="dark">
-                    <a className="text-white" href="#" title="Icon Whatsapp #340360"><img src="https://icon-library.net//images/icon-whatsapp/icon-whatsapp-3.jpg" width="30" /> +57 3023094339</a>   
+                    <a className="text-white" href="#" title="Icon Whatsapp #340360"><img src="https://icon-library.net//images/icon-whatsapp/icon-whatsapp-3.jpg" width="20" /> +57 3023094339</a>   
                   </Badge>
                 </OverlayTrigger>
                 <OverlayTrigger placement="top" 
                 overlay={<Tooltip>Email</Tooltip>}>
                   <Badge className="badge" sm={3} pill variant="dark">
-                  <a className="text-white" href="mailto:ldonaldo@uninorte.edu.co" title="Gmail Icon Vector #11758"><img src="https://icon-library.net//images/gmail-icon-vector/gmail-icon-vector-23.jpg" width="30" />ldonaldo@uninorte.edu.co</a>   
+                  <a className="text-white" href="mailto:ldonaldo@uninorte.edu.co" title="Gmail Icon Vector #11758"><img src="https://icon-library.net//images/gmail-icon-vector/gmail-icon-vector-23.jpg" width="20" />ldonaldo@uninorte.edu.co</a>   
                   </Badge>
                 </OverlayTrigger>
                 <OverlayTrigger placement="top" 
                 overlay={<Tooltip>Linkedin</Tooltip>}>
                   <Badge className="badge" sm={3} pill variant="dark">
-                    <a href="https://www.linkedin.com/in/donaldo-llanos-ter%C3%A1n/" title="Linked In Icon #166878"><img src="https://icon-library.net//images/linked-in-icon/linked-in-icon-26.jpg" width="30" /></a>
+                    <a href="https://www.linkedin.com/in/donaldo-llanos-ter%C3%A1n/" title="Linked In Icon #166878"><img src="https://icon-library.net//images/linked-in-icon/linked-in-icon-26.jpg" width="20" /></a>
                   </Badge>
                 </OverlayTrigger>
                 <OverlayTrigger placement="top" 
                 overlay={<Tooltip>Github</Tooltip>}>
                   <Badge className="badge" sm={3} pill variant="dark">
-                    <a href="https://github.com/ldonaldo" title="Github Svg Icon #170836"><img src="https://icon-library.net//images/github-svg-icon/github-svg-icon-5.jpg" width="30" /></a>
+                    <a href="https://github.com/ldonaldo" title="Github Svg Icon #170836"><img src="https://icon-library.net//images/github-svg-icon/github-svg-icon-5.jpg" width="20" /></a>
                   </Badge>
                 </OverlayTrigger>
               </Row>   
